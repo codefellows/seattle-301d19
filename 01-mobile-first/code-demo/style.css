@@ -1,0 +1,23 @@
+h1 {
+  display: none;
+}
+@media (min-width: 500px) {
+  h1 {
+    display: block;
+  }
+}
+
+.nav-menu {
+  list-style-type: none;
+  float: left;
+  font-family: monospace;
+}
+.nav-menu li {
+  border: thin solid red;
+}
+.active {
+  background-color: green;
+}
+.foobar {
+  color: white;
+}
