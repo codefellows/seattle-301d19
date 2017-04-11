@@ -1,0 +1,21 @@
+.left {
+  float: left;
+}
+.text-center{
+  text-align: center;
+}
+.black-bkg {
+  background-color: black;
+}
+.white-txt {
+  color: white;
+}
+.yellow-txt {
+  color: yellow;
+}
+.small-txt{
+  font-size: 8px;
+}
+.clearfix {
+  clear: both;
+}
