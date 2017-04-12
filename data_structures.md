@@ -24,6 +24,15 @@ The specification dictates what type of data the structure can hold, as well as 
 The spec reasons about relations to other data types, how errors should be raised, etc.
 It follows some mathematical model, and then the developer picks their choice language and implements that spec.
 
+One example of an abstract data structure is the [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree).
+
+![Binary Search Tree from https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/200px-Binary_search_tree.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/200px-Binary_search_tree.svg.png)
+
+It's a structure that's optimized for quick, efficient searching through a collection of values.
+Every data node is related to every next data node depending on whether the value is greater than or less than its neighbor.
+When properly structured, a value that could normally take 10,000 steps to search for can be found in 4.
+No joke. 
+
 ## Why do we care?
 
 There's the noble rationale of wanting to be prepared to implement the most efficient, most appropriate data structure for a given problem domain.
