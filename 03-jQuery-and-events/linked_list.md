@@ -25,7 +25,7 @@ It also supports a few specific methods:
 - `push(value)`: add a new node containing `value` at the `head` of the list, pointing to the old `head` of the list as the next node.
 - `pop()`: remove the `head` node from the list and return it. If the list is empty, return `null`.
 - `search(value)`: search for the node containing the given `value` and return it. Otherwise, return `null`.
-- `remove(value)`: remove one node from the list that containing `value`
+- `remove(value)`: remove one node from the list that contains `value`. If the value does not exist in the list, do nothing.
 - `display()`: displays the contents of the list as a string.
 
 ## Task
