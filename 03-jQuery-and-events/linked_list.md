@@ -26,5 +26,26 @@ It also supports a few specific methods:
 - `pop()`: remove the `head` node from the list and return it. If the list is empty, return `null`.
 - `search(value)`: search for the node containing the given `value` and return it. Otherwise, return `null`.
 - `remove(value)`: remove one node from the list that containing `value`
+- `display()`: displays the contents of the list as a string.
 
 ## Task
+
+Little by little we'll be building out all of this functionality.
+Today, we're starting with `push`.
+I'll start you off with the `Node` object that you'll need for this structure:
+
+```javascript
+function Node(value, next) {
+  this.value = value;
+  this.next = next ? next : null;
+}
+```
+
+With your partner for the day, find a whiteboard (or whiteboard-capable surface) to write on.
+Write the code for the `LinkedList` constructor function, containing a reference to the `head` as a property of the LinkedList.
+Add to the `LinkedList` prototype the `push` method that illustrates the behavior described above.
+
+When you're done, have myself or a TA look over your work.
+Then, create a `data_structures` repository and copy your code from the whiteboard into a `linkedList.js` file.
+Commit that file and push to your repository.
+It'd probably be a good idea to add a descriptive `README.md` as well.
