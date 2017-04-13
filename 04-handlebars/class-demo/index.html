@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>jQuery Templating Example</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
+    <script type="text/x-handlebars-template" id="template">
+      <section>
+        <h2>It has been {{num}} seconds since this page was loaded.</h2>
+      </section>
+    </script>
+  </head>
+  <body>
+    <div id="notepad">
+    </div>
+    <script>
+      var counter = {
+        num: 0
+      };
+      var $template = $('#template').html();
+      var render = Handlebars.compile($template);
+
+      setInterval(function(){
+        counter.num+=0.5;
+        $('#notepad').html(render(counter));
+      }, 500);
+
+
+    </script>
+  </body>
+</html>
