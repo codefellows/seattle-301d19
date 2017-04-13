@@ -24,5 +24,10 @@ LinkedList.prototype.display = function(){
   list.push(6);
   list.push(5);
   list.display() returns '[5] -> [6] -> [3] -> [18]'
+
+  Also implement the "length" attribute.
+  The length attribute is a property of the constructor.
+  An empty linked list has 0 length.
+  The length increases whenever you push a new value on.
   */
 };
