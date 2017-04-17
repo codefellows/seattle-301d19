@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>AJAX Demo</title>
+  </head>
+  <body>
+    <section id="data-here">
+      This is currently empty.
+    </section>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+
+        $.get('https://api.github.com/users/adutchguy', function( data ){
+          var reposUrl = data['repos_url'];
+          $.get(reposUrl, function(data){
+            $('#data-here').text(JSON.stringify(data));
+          });
+        });
+
+      let number = 2;
+      if (true) {
+        let number = 3;
+        number = 4;
+        console.log(`Number is ${number}`);
+      }
+      console.log(`Number is ${number}`);
+
+      const PI = [];
+
+    </script>
+  </body>
+</html>
