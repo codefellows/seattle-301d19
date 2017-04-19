@@ -13,11 +13,10 @@
 
 *Song for today: ["The Empire Strikes Back Theme"](https://www.youtube.com/watch?v=dhL_v6yZIso&index=1&list=PLVngfM2hsbi97X7yB1bCwl5qSoC23l9zo) by Meco, a true disco abomination!*
 
-- First off, a visit from Karinne and Mindy in Admissions!
 - Code Review (brief; just enough to clarify yesterday)
 - Installation of Postgres progress?
-- Today for lab we'll organize you in pairs/threes by OS just to help manage the functionality of your setups in a more efficient manner. By the time of tomorrow's lab  we'll do pairs as usual and mixed OSs should not matter. Let's take couple of minutes so Steven can make lists of who is on which OS.
-- We'll plan to do about 75-90 minutes of review of the lab code in class today. Sam won't publish the lab until we are finished with class; you should be 100% dialed on the class discussion and not futzing around on your own screen other than to take some notes.
+- Today for lab we'll organize you in pairs/threes by OS just to help manage the functionality of your setups in a more efficient manner. By the time of tomorrow's lab  we'll do pairs as usual and mixed OSs should not matter. Let's take couple of minutes so TAs can make lists of who is on which OS.
+- We'll plan to do about 75-90 minutes of review of the lab code in class today.
 
 - [Postgres article on Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
 
