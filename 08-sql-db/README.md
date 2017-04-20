@@ -1,3 +1,6 @@
+## SQL
+[Slides](https://www.icloud.com/keynote/000U7LKI_iSrfJAuo73LsA-Hw#Code_301_-_Class_8_Slides)
+
 # Code 301, Class 8: ***SQL & Postgres***
 
 *Databases power web applications everywhere by enabling them to persist, modify, and query datasets to great effect. While there are many types of database options available now, Structured Query Language (SQL) remains the de facto standard for communicating with relational database systems. Let's build some SQL skills!*
