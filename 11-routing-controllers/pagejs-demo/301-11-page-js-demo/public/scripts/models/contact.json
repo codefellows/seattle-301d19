@@ -1,0 +1,37 @@
+[
+	{
+		"id": 33,
+		"name": "Brook",
+		"favorite number": 42,
+		"ninja": true
+	}, {
+		"id": 99,
+		"name": "Sam",
+		"favorite number": 3,
+		"ninja": false
+	},
+	{
+		"id": 3.14,
+		"name": "Steven",
+		"favorite number": 13,
+		"ninja": true
+	},
+	{
+		"id": 8675309,
+		"name": "Judy",
+		"favorite number": "pi",
+		"ninja": false
+	},
+	{
+		"id": 2,
+		"name": "Tracey",
+		"favorite number": 5,
+		"ninja": true
+	},
+	{
+		"id": 5150,
+		"name": "David",
+		"favorite number": 1,
+		"ninja": true
+	}
+]

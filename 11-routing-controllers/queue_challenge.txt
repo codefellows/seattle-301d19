@@ -1,0 +1,31 @@
+Queue
+
+For a list...
+start: [1] => [2] => [19]
+list.push(22)
+end: [22] => [1] => [2] => [19]
+
+For a stack...
+start: [1] => [2] => [19]
+queue.enqueue(22)
+end: [1] => [2] => [19] => [22]
+
+queue.deque()
+return: [1]
+queue.deque()
+return: [2]
+queue.deque()
+return: [19]
+queue.deque()
+return: [22]
+
+Build a queue out of two linked lists
+
+queue = new Queue()
+// an empty queue
+queue.enqueue(3)
+// [3]
+queue.enqueue(5)
+// [3] => [5]
+queue.dequeue()
+// returns 3
