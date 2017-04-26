@@ -7,7 +7,7 @@ A ton of APIs can be found here: https://www.programmableweb.com/
 - Twitter: https://dev.twitter.com/rest/public
 - Facebook: https://developers.facebook.com/
 - Weather Underground: https://www.wunderground.com/weather/api/
-- data.seattle.gov: https://data.seattle.gov/
+- data.seattle.gov (other cities as well): https://data.seattle.gov/
 - King County Buses: https://data.kingcounty.gov/Transportation/King-County-Metro/pd2q-kmme
 - Uber: https://developer.uber.com/
 - AirBNB: http://airbnbapi.org/
@@ -19,4 +19,8 @@ A ton of APIs can be found here: https://www.programmableweb.com/
 - Zillow: https://www.zillow.com/howto/api/APIOverview.htm
 - Amazon: https://developer.amazon.com/services-and-apis
 - Guidebox: https://api.guidebox.com/
-- 
+- Dropbox: https://www.dropbox.com/developers/documentation/http/overview
+- Nintendo: https://developer.nintendo.com/
+- Sony: https://developer.sony.com/
+- Various financial news APIs: http://financial.news.stack.network/apis/
+- Reuters: https://customers.reuters.com/developer/apis_tech.aspx
