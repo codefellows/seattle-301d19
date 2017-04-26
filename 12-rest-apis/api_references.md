@@ -16,3 +16,7 @@ A ton of APIs can be found here: https://www.programmableweb.com/
 - YouTube: https://developers.google.com/youtube/v3/
 - Reddit: https://www.reddit.com/dev/api/
 - A bunch of military stuff: https://www.programmableweb.com/category/military/api
+- Zillow: https://www.zillow.com/howto/api/APIOverview.htm
+- Amazon: https://developer.amazon.com/services-and-apis
+- Guidebox: https://api.guidebox.com/
+- 
