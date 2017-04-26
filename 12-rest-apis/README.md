@@ -6,7 +6,7 @@
 
 - Project Week is coming! We'll have a quick discussion on project ideas TODAY to follow up on the Canvas discussion *(like, right meow, 15 minutes tops)* so that we can get a sense of how to scope them.
 	- Tomorrow we'll continue discussing project ideas and start generating a list of possible projects, and announce project teams!
-	-  Friday we'll get Project Week underway! Teams will be able to pick whatever project they want from a list of approved ideas, or propose a new one.
+	-  Friday we'll get Project Week underway!
 
 	- Let's look at a few recent final 301 projects from before your 201!
 		- [Price I$ Right Parking](http://priceisrightparking.herokuapp.com/)
@@ -21,7 +21,7 @@
 
 	- There is also Quiz 3 to complete over the weekend, PLUS a bonus ***ungraded*** quiz 3.14 to help you prep for the 401 exam.
 
-	- 	If you'd like to schedule a one-on-one meeting with Sam over the next week, please select one of the slots available at [this link](https://sam-301d18.youcanbook.me/).
+	- 	If you'd like to schedule a one-on-one meeting with Sam over the next week, please select one of the slots available at [this link](https://nhuntwalker.youcanbook.me).
 
 [**Slides: RESTful endpoints and External APIs**](12-REST-APIs.pdf)
 
